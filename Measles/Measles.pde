@@ -18,7 +18,10 @@ void keyPressed() {
 } //End keyPressed
 //
 void mousePressed() {
-  
+  //OS System Start Button
+  //Splash Screen Start Button
+  //Quit Button
+  //Night Mode (includes day mode)
 } //End mousePressed
 //
 //End MAIN Program
