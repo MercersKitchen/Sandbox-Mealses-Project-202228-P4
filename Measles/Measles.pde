@@ -2,8 +2,12 @@
 //
 void setup() {
   //Display & Orientation
+  size(600, 400);
+  //fullScreen(); //displayWidth & displayHeight
+  appWidth = width;
+  appHeight = height;
   //Population
-  //Theme: i.e Face
+  //Theme: i.e Face (will work in portrait and landscape)
   //Back Image with tint()
 } //End setup
 //
