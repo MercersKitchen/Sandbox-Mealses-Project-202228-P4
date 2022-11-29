@@ -8,8 +8,10 @@ void setup() {
   displayOrientation(); //need smaller dimension (ternary operator)
   appWidth = width;
   appHeight = height;
+  //
   //Population
   //Theme: i.e Face (will work in portrait and landscape)
+  faceSetup();
   //Back Image with tint()
 } //End setup
 //
