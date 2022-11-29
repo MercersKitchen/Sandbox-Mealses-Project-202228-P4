@@ -26,6 +26,7 @@ void keyPressed() {
 } //End keyPressed
 //
 void mousePressed() {
+  //CAUTION: all buttons have Hover Over
   //OS System Start Button
   //Splash Screen Start Button
   //Quit Button
