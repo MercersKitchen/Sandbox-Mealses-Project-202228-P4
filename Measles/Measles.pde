@@ -5,6 +5,7 @@ void setup() {
   //Display & Orientation
   size(600, 400);
   //fullScreen(); //displayWidth & displayHeight
+  displayOrientation(); //need smaller dimension (ternary operator)
   appWidth = width;
   appHeight = height;
   //Population
