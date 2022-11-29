@@ -11,7 +11,7 @@ void population() {
   rectFaceWidth = smallerDimension;
   rectFaceHeight = smallerDimension;
   faceX = centerX;
-  faceY = centerY;;
+  faceY = centerY;
   faceDiameter = smallerDimension;
   //
 } //End population
