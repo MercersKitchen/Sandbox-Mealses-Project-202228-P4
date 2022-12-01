@@ -2,6 +2,7 @@
 int appWidth, appHeight;
 int reset=1;
 color resetWhite=#FFFFFF;
+Boolean nightMode=false;
 //
 void setup() {
   //Display & Orientation
