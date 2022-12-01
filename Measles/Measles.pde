@@ -15,7 +15,7 @@ void setup() {
   eyes(); //Student created
   mouth(); //Student created
   nose(); //Student created
-  //measlesDynamic(); //Teacher Lesson
+  measlesDynamic(); //Teacher Lesson
   //Background Image (could be in draw too)
 }//End setup
 //
