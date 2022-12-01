@@ -28,6 +28,7 @@ void draw() {
 //
 void keyPressed() {
   //KeyBoard Shortcuts
+  if ( key=='N' | key=='n') ;
 }//End keyPressed
 //
 void mousePressed() {
