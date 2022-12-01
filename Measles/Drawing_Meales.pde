@@ -12,9 +12,11 @@ void measlesDynamic() {
   //Pink: ( 255, 0, 130)
   //Dark red: ( 255, 55, 0)
   //
+  noStroke();
   fill(measlesColour);
   ellipse( measleX, measleY, measleDiameter, measleDiameter );
   fill(resetWhite);
+  stroke(reset);
 } //End measlesDynamic
 //
 //Emd Draw Measles Subprogram
